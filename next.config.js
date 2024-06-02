@@ -17,9 +17,10 @@ const nextConfig = {
         domains: ["s.gravatar.com"]
     },
     env: {
-        siteTitle: "Your Company",
+        siteTitle: "MintaKerjain",
         siteDescription: "Your company description.",
-        siteKeywords: "your company keywords",
+        siteKeywords:
+            "MintaKerjain Joki Tugas Skripsi Game Development Website HKI Publish Sinta",
         siteUrl: "You site url",
         siteImagePreviewUrl: "/images/preview.jpeg",
         twitterHandle: "@your_handle"
