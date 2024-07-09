@@ -27,6 +27,7 @@ const SEO = ({ title, description, keywords }) => {
                 content="summary_large_image"
                 key="twcard"
             />
+            <meta name="google-site-verification" content="xZRadpptffw_JIB62OCjBfS7R4QYeL6gf9rB-5OBrDY" />
             <meta
                 name="twitter:creator"
                 content={twitterHandle}
